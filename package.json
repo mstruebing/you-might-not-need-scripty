@@ -1,0 +1,13 @@
+{
+  "name": "scripty-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "alex": "alex README.md",
+    "alex:shell": "./scripts/alex.sh"
+  },
+  "dependencies": {
+    "alex": "^4.0.1"
+  }
+}
